@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_insta_clone/instagramBody.dart';
 
 class InstagramHome extends StatelessWidget {
 
@@ -55,7 +56,7 @@ class InstagramHome extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: topBar,
-      body: new Container(),
+      body: new InstagramBody(),
       bottomNavigationBar: bottomNavigationBar,
     );
   }
