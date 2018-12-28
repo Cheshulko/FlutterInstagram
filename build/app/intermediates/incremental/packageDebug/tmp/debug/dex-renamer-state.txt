@@ -1,0 +1,4 @@
+#Fri Dec 28 10:42:51 EET 2018
+base.0=/Users/mykyta.cheshulko/Documents/Hobby/flutter_insta_clone/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
